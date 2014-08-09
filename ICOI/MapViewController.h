@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MapViewController.h
 //  ICOI
 //
 //  Created by iMac on 8/8/14.
@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface MapViewController : UIViewController
+
 
 @end

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8803FF061994F55600D4B637"
-               BuildableName = "ICOI.app"
-               BlueprintName = "ICOI"
-               ReferencedContainer = "container:ICOI.xcodeproj">
+               BuildableName = "IIOC.app"
+               BlueprintName = "IIOC"
+               ReferencedContainer = "container:IIOC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8803FF271994F55700D4B637"
-               BuildableName = "ICOITests.xctest"
-               BlueprintName = "ICOITests"
-               ReferencedContainer = "container:ICOI.xcodeproj">
+               BuildableName = "IIOCTests.xctest"
+               BlueprintName = "IIOCTests"
+               ReferencedContainer = "container:IIOC.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8803FF061994F55600D4B637"
-            BuildableName = "ICOI.app"
-            BlueprintName = "ICOI"
-            ReferencedContainer = "container:ICOI.xcodeproj">
+            BuildableName = "IIOC.app"
+            BlueprintName = "IIOC"
+            ReferencedContainer = "container:IIOC.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8803FF061994F55600D4B637"
-            BuildableName = "ICOI.app"
-            BlueprintName = "ICOI"
-            ReferencedContainer = "container:ICOI.xcodeproj">
+            BuildableName = "IIOC.app"
+            BlueprintName = "IIOC"
+            ReferencedContainer = "container:IIOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8803FF061994F55600D4B637"
-            BuildableName = "ICOI.app"
-            BlueprintName = "ICOI"
-            ReferencedContainer = "container:ICOI.xcodeproj">
+            BuildableName = "IIOC.app"
+            BlueprintName = "IIOC"
+            ReferencedContainer = "container:IIOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
